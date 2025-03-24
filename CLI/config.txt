@@ -1,0 +1,6 @@
+--- Current Configuration ---
+Max Ticket Capacity: 10
+Total Tickets: 7
+Ticket Release Rate (s): 3
+Customer Retrieval Rate (s): 2
+-----------------------------

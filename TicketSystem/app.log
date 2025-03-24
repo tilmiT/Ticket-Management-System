@@ -1,0 +1,240 @@
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 1 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 0 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 1 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 2 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 3 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 4 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 3 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:42 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 2 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:44 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 3 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:44 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 4 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:44 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 5 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:44 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 6 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:44 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 7 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:45 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 6 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:45 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 5 - Ticket: Ticket{ticketId=1, eventName='Event-1', ticketPrice=100.00}
+Dec 12, 2024 1:16:45 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 4 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:46 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 5 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:46 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 6 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:46 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 7 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:46 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 8 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:46 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 9 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 10 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 9 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 8 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 7 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 8 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 9 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 10 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:48 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 11 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:50 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 12 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:16:50 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 13 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:16:50 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:16:51 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=2, eventName='Event-2', ticketPrice=100.00}
+Dec 12, 2024 1:16:51 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:16:51 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:51 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:16:51 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:52 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:16:54 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:54 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:16:54 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:54 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:16:54 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=3, eventName='Event-3', ticketPrice=100.00}
+Dec 12, 2024 1:16:54 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:16:57 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:57 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:16:57 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:57 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:16:57 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:16:57 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:00 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:17:00 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:17:00 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=4, eventName='Event-4', ticketPrice=100.00}
+Dec 12, 2024 1:17:00 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:00 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:17:00 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:03 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:17:03 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:03 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:17:03 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:03 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:17:03 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:06 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=5, eventName='Event-5', ticketPrice=100.00}
+Dec 12, 2024 1:17:06 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:06 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:17:06 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:06 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:17:06 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:09 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:17:09 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:09 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:17:09 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:09 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:09 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:12 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:12 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:12 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:12 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:12 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=6, eventName='Event-6', ticketPrice=100.00}
+Dec 12, 2024 1:17:12 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:15 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:15 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:15 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:15 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-5 - Queue size: 14 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:15 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:15 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:18 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:18 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:18 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:18 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:18 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=7, eventName='Event-7', ticketPrice=100.00}
+Dec 12, 2024 1:17:18 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:21 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:21 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-1 - Queue size: 14 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:21 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:21 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-2 - Queue size: 14 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:21 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:21 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:24 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:24 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:24 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:24 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:24 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 13 - Ticket: Ticket{ticketId=8, eventName='Event-8', ticketPrice=100.00}
+Dec 12, 2024 1:17:26 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-3 - Queue size: 14 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:27 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 13 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:27 AM com.CW.TicketSystem.Model.TicketPool addTicket
+INFO: Ticket added by pool-1-thread-4 - Queue size: 14 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:27 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 13 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:27 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 12 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:30 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 11 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:30 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 10 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:30 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 9 - Ticket: Ticket{ticketId=9, eventName='Event-9', ticketPrice=100.00}
+Dec 12, 2024 1:17:33 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 8 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:33 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 7 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:33 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 6 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:36 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 5 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:36 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 4 - Ticket: Ticket{ticketId=10, eventName='Event-10', ticketPrice=100.00}
+Dec 12, 2024 1:17:36 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 3 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:39 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-7 - Queue size: 2 - Ticket: Ticket{ticketId=11, eventName='Event-11', ticketPrice=100.00}
+Dec 12, 2024 1:17:39 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-8 - Queue size: 1 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
+Dec 12, 2024 1:17:39 AM com.CW.TicketSystem.Model.TicketPool buyTicket
+INFO: Ticket purchased by pool-1-thread-6 - Queue size: 0 - Ticket: Ticket{ticketId=12, eventName='Event-12', ticketPrice=100.00}
